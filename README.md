@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Daniele, passionate about Autonomous Systems!
+<h1 align="center">Hi 👋, I'm Daniele</h1>
+<h3 align="center">An autonomous systems engineer passionate about the ADAS world!</h3>
 
 ### Languages & Tecnologies  ⚡ 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
