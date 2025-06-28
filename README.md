@@ -1,5 +1,13 @@
 ## Hi there 👋
+I'm Daniele, passionate about Autonomous Systems!
 
+### Languages & Tecnologies  ⚡ 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 <!--
 **daniSera/daniSera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
